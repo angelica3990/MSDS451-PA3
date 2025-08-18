@@ -12,3 +12,5 @@ This project tests a trading algorithm on Barnes & Noble Education (BNED) stock 
 
 Buy & Hold: -94.43%
 All strategies significantly outperformed buying and holding the stock.
+
+I used Claude to debug my code for this assignment.
